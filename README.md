@@ -1,6 +1,6 @@
 
 # Victória Camargo
-**Desenvolvedora Full Stack**
+
 
 Me chamo Victória, tenho 28 anos, sou de Porto Alegre-RS e curso Análise e Desenvolvimento de Sistemas pela FADERGS. Em transição de carreira, estou descobrindo na tecnologia um novo mundo de possibilidades e aprendizado.
 
